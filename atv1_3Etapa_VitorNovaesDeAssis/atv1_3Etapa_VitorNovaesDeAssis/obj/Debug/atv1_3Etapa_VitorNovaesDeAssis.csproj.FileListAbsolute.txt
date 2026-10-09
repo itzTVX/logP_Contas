@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\Projects\atv1_3Etapa_VitorNovaesDeAssis\atv1_3Etapa_VitorNovaesDeAssis\bin\Debug\atv1_3Etapa_VitorNovaesDeAssis.exe.config
+H:\Visual Studio 2022\Projects\atv1_3Etapa_VitorNovaesDeAssis\atv1_3Etapa_VitorNovaesDeAssis\bin\Debug\atv1_3Etapa_VitorNovaesDeAssis.exe
+H:\Visual Studio 2022\Projects\atv1_3Etapa_VitorNovaesDeAssis\atv1_3Etapa_VitorNovaesDeAssis\bin\Debug\atv1_3Etapa_VitorNovaesDeAssis.pdb
+H:\Visual Studio 2022\Projects\atv1_3Etapa_VitorNovaesDeAssis\atv1_3Etapa_VitorNovaesDeAssis\obj\Debug\atv1_3Etapa_VitorNovaesDeAssis.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\atv1_3Etapa_VitorNovaesDeAssis\atv1_3Etapa_VitorNovaesDeAssis\obj\Debug\atv1_3Etapa_VitorNovaesDeAssis.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\atv1_3Etapa_VitorNovaesDeAssis\atv1_3Etapa_VitorNovaesDeAssis\obj\Debug\atv1_3Etapa_VitorNovaesDeAssis.exe
+H:\Visual Studio 2022\Projects\atv1_3Etapa_VitorNovaesDeAssis\atv1_3Etapa_VitorNovaesDeAssis\obj\Debug\atv1_3Etapa_VitorNovaesDeAssis.pdb
